@@ -3,6 +3,12 @@ void main(){
             System.out.println("Hello java coders");
            }
 void main m1(){
-}
+                  }
+void main m2(){
+                  }
+
+void main m3(){
+                  }
+
 
                }
